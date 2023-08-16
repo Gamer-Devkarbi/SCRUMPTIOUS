@@ -1,0 +1,32 @@
+.body5{
+    display: flex;
+    background-image: url(https://wallpaperaccess.com/full/7066805.jpg);
+    width:750px;
+    color: honeydew;
+
+}
+.map
+{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+.Contact Us{
+    width: 60%;
+    height: 100%;
+    float: right;
+    font-size: 20px;
+    margin-left: -100px;
+    margin-right: 400px;
+    text-align: left;
+
+} 
+#format{
+    font-size: 28px;
+    color: honeydew;
+}
+.overlay5{
+    color: #fff;
+    background-color: black;
+    width: 100%;
+}
